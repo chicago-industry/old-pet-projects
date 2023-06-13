@@ -1,0 +1,49 @@
+21
+#Here is the number of lines required: 33
+##start
+A 2 2
+##end
+J 9 8
+D 7 6
+E 6 5
+G 4 3
+B 2 1
+K 1 8
+T 10 10
+X 0 13
+R 120 10
+C 1 1
+V 100 23
+1 13 13
+2 1 13
+3 2 13
+4 3 13
+5 4 13
+6 5 13
+A-C
+D-G
+C-E
+X-B
+G-J
+G-E
+E-B
+T-D
+X-R
+R-V
+V-J
+A-1
+E-K
+1-2
+4-5
+4-3
+A-B
+D-B
+E-D
+K-J
+A-T
+A-4
+2-3
+3-J
+5-6
+6-J
+G-K

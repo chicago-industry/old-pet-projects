@@ -1,0 +1,37 @@
+10
+##start
+a 1 1
+##end
+z 1 1
+b 1 1
+c 1 1
+o 1 1
+m 1 1
+k 1 1
+s 1 1
+j 1 1
+d 1 1
+y 1 1
+t 1 1
+#links
+a-b
+a-c
+#double
+c-b
+c-y
+b-t
+t-z
+y-z
+z-o
+#vnutri kotorie
+a-m
+a-d
+#double
+d-m
+m-s
+d-k
+#double
+k-s
+k-j
+s-z
+j-z

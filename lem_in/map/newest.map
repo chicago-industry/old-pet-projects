@@ -1,0 +1,33 @@
+100
+##start
+A 2 2
+##end
+H 9 10
+B 10 10
+C 8 2
+D 7 3
+E 6 4
+G 4 6
+O 10 101
+T 1 232
+F 0 19
+M 34 34
+N 23 23
+Q 12 12
+#линки
+A-B
+A-O
+A-M
+M-N
+N-Q
+Q-H
+B-T
+T-C
+C-D
+D-H
+D-F
+O-E
+E-F
+F-G
+E-D
+G-H

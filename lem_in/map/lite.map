@@ -1,0 +1,46 @@
+15
+##start
+start 9 2
+##end
+fin 9 10
+#ПОЕХАЛИ
+A 2 2
+B 10 10
+C 8 2
+D 7 3
+E 6 4
+F 5 5
+H 6 4
+I 2 4
+J 7 0
+K 8 3
+T 1 1
+Y 1 1
+O 1 1
+M 1 1
+P 1 1
+#линки
+start-O
+O-T
+T-Y
+Y-M
+M-P
+P-fin
+start-A
+A-D
+D-M
+D-P
+D-fin
+D-F
+start-B
+B-E
+E-F
+F-fin
+F-K
+start-C
+C-F
+C-H
+H-I
+I-J
+J-K
+K-fin

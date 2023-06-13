@@ -1,0 +1,9 @@
+Language: Cpp
+BasedOnStyle: LLVM
+UseTab: Never
+IndentWidth: 4
+ColumnLimit: 100
+AlignConsecutiveMacros: true
+IndentCaseLabels: false
+AlignConsecutiveDeclarations: true
+AlignTrailingComments: true

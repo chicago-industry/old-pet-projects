@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/vsezanatodazheeto/lib.git
+[submodule "42_lem-in_tools"]
+	path = 42_lem-in_tools
+	url = https://github.com/apft/42_lem-in_tools.git

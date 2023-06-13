@@ -1,0 +1,48 @@
+20
+##start
+a 1 1
+##end
+z 1 1
+#rooms
+b 1 1
+f 1 1
+g 1 1
+h 1 1
+c 1 1
+e 1 1
+d 1 1
+i 1 1
+k 1 1
+l 1 1
+t 1 1
+y 1 1
+x 1 1
+m 1 1
+n 1 1
+o 1 1
+p 1 1
+r 1 1
+s 1 1
+#links
+a-t
+t-y
+y-x
+x-m
+m-n
+n-o
+o-p
+p-r
+r-s
+s-h
+a-b
+b-f
+f-g
+g-h
+h-z
+b-c
+c-e
+e-d
+d-i
+i-k
+k-l
+l-z

@@ -1,0 +1,31 @@
+20
+##start
+a 1 1
+##end
+z 1 1
+#rooms
+b 1 1
+c 1 1
+d 1 1
+e 1 1
+q 1 1
+w 1 1
+r 1 1
+t 1 1
+#links
+t-z
+b-t
+a-b
+a-c
+b-e
+b-d
+c-e
+c-d
+c-b
+d-e
+e-z
+d-z
+a-q
+q-w
+w-r
+r-t

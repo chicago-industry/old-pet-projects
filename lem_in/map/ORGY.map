@@ -1,0 +1,24 @@
+10
+##start
+a 1 1
+##end
+z 1 1
+d 1 1
+b 1 1
+c 1 1
+e 1 1
+f 1 1
+o 1 1
+g 1 1
+a-b
+a-c
+a-d
+b-c
+b-e
+e-f
+e-g
+c-f
+f-g
+d-o
+o-f
+g-z
